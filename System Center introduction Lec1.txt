@@ -62,9 +62,18 @@ Course  :
 
 8-troubleshooting 
   
+======================================================
+LAB Steps (Installing AD ,SQL ,CM ,WSUS)
+======================================================
+1-create 4 servers (win19)
+2- your ip configuration as listed:
 
+   AD 100.100.100.100 /24 
 
+  AD 50.50.50.50 /24
 
+  AD   25.25.25.25 /24
+ 
 
 
 
