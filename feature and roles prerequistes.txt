@@ -1,0 +1,40 @@
+Windows Roles
+--BITS
+---.Net
+---WSUS, After you finished to install SQL
+--IIS
+Common HTTP Features
+Static Content
+--Default Document
+--Directory Browsing
+--HTTP Errors
+--HTTP Redirection
+	Health and Diagnostics
+--HTTP logging
+--Logging tools
+--Request Monitor
+--Tracing 
+	Performance
+--Static Content Compression
+--Dynamic Content Compression
+	Security
+--Basic Authentication
+--Windows Authentication
+--URL Authorization
+--Request Filtering
+--IP and Domain Restrictions
+		Application Development
+---ASP.NET 4.5
+.NET Extensibility
+----ASP 4.5
+--ISAPI Extensions
+--ISAPI Filters
+--Management Service
+--IIS 6 Management Compatibilty
+--IIS 6 Metabase Compatibility
+--IIS 6 WMI Compatibility
+--IIS 6 Scripting Tools
+--IIS 6 Management Console
+--All Management Tools
+--IIS Management Console
+--IIS Management Scripts and Tools
