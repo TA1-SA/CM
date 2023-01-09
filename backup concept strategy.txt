@@ -1,0 +1,27 @@
+#################################
+Backup of SCCM 
+#################################
+
+-Backup Type:
+ -Full 
+	-Diffrential :changes since last full backup 
+		-Incremental[transaction log]  :changes since last backup
+
+
+
+
+1st  data-->10G   f-->10GB
+    1:00 12GB   i-->2G
+
+   // 2:00 15GB  i-->3GB//
+    3:00 16GB  i-->1GB   
+2nd  data-->30GB  d-->20GB
+
+3rd  data-->50GB  d-->40GB
+
+4th  data-->100G  d-->90GB
+
+
+Backup Strategy : full -->weekly
+		  Diff--->Daily
+		  inc--->per hour
